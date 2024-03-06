@@ -1,0 +1,23 @@
+{
+    "123": {
+        "idx": "123",
+        "nombre": "manzana",
+        "valor_unitario": 100.0,
+        "stock_min": 5.0,
+        "stock_max": 10.0
+    },
+    "456": {
+        "idx": "456",
+        "nombre": "pera",
+        "valor_unitario": 200.0,
+        "stock_min": 3.0,
+        "stock_max": 15.0
+    },
+    "657": {
+        "idx": "657",
+        "nombre": "hamburguesa",
+        "valor_unitario": 5000.0,
+        "stock_min": 100.0,
+        "stock_max": 200.0
+    }
+}
