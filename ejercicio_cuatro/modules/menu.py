@@ -1,5 +1,5 @@
 from modules.corefiles import read_file, update_file, clear_screen, pause_screen
-from modules.empleado_module import add_empleado, add_sueldo_empleado, reg_col_empl, lst_col_empl
+from modules.empleado_module import add_empleado, add_sueldo_empleado, reg_col_empl, lst_col_empl, lst_concep_nom
 
 def menu():
 
@@ -35,9 +35,10 @@ def menu():
             reg_col_empl()
             menu()
         elif opt == '4':
-            lst_col_empl()
+            lst_concep_nom()
             menu()
         elif opt == '5':
+            lst_col_empl()
             menu()
         elif opt == '6':
             return

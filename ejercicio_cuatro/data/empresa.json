@@ -4,17 +4,38 @@
         "nombre": "Jose",
         "cargo": "Almacenista",
         "salario_base": 10000,
-        "deuda_empresa": 0,
-        "deuda_cafeteria": 0,
-        "salario_final": 21000.0,
+        "deuda_empresa": 20,
+        "deuda_cafeteria": 10,
+        "salario_final": 26470.0,
         "colilla": {
             "enero": {
                 "mes": "enero",
-                "fecha": "10/02/24",
+                "fecha": "10/10/24",
                 "sueldo_base": 10000,
                 "precio_ex": 5000,
-                "deuda_empresa": 0,
-                "deuda_cafeteria": 0
+                "deuda_empresa": 20,
+                "deuda_cafeteria": 10,
+                "total_pagar": 26470.0
+            }
+        }
+    },
+    "345": {
+        "idx": "345",
+        "nombre": "David",
+        "cargo": "Jefe IT",
+        "salario_base": 1000,
+        "deuda_empresa": 100,
+        "deuda_cafeteria": 0,
+        "salario_final": 11900.0,
+        "colilla": {
+            "enero": {
+                "mes": "enero",
+                "fecha": "04/02/24",
+                "sueldo_base": 1000,
+                "precio_ex": 5000,
+                "deuda_empresa": 100,
+                "deuda_cafeteria": 0,
+                "total_pagar": 11900.0
             }
         }
     }
