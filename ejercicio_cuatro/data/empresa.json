@@ -1,0 +1,21 @@
+{
+    "123": {
+        "idx": "123",
+        "nombre": "Jose",
+        "cargo": "Almacenista",
+        "salario_base": 10000,
+        "deuda_empresa": 0,
+        "deuda_cafeteria": 0,
+        "salario_final": 21000.0,
+        "colilla": {
+            "enero": {
+                "mes": "enero",
+                "fecha": "10/02/24",
+                "sueldo_base": 10000,
+                "precio_ex": 5000,
+                "deuda_empresa": 0,
+                "deuda_cafeteria": 0
+            }
+        }
+    }
+}

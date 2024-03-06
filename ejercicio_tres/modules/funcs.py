@@ -10,7 +10,7 @@ def menu():
 
     Elija una opción:
 
-    1. Registrar usuario
+    1. Registrar producto
     2. Salir
 
     """
